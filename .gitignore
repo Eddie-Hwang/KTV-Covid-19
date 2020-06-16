@@ -1,0 +1,6 @@
+/videos
+.vscode
+*.zip
+*.txt
+__pycache__
+/pickle_files
